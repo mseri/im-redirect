@@ -5,4 +5,5 @@ setup(name='Illusionimentali Redirect',
       description='Provides redirects for old urls.',
       author='Marcello Seri',
       author_email='@marcelloseri',
+      install_require=['bottle',],
      )
